@@ -3,8 +3,10 @@
 **HabitFlow** is a mobile application built with Flutter, designed to help users develop and maintain positive habits. The app focuses on providing a user-friendly experience to encourage habit formation, track daily progress, and support personal growth. It features an engaging onboarding experience, customizable habit settings, progress analytics, and much more.
 
 ## Screenshots
-![Home Screen1](DOCS/screens/home_today.jpg)![Home Screen2](DOCS/screens/home_weekly.jpg)
-![Profile Screen](DOCS/screens/profile.jpg)
+| Home (Today)                                 | Home (Weekly)                                 | Profile                                     |
+| -------------------------------------------- | --------------------------------------------- | ------------------------------------------- |
+| ![Home Screen1](DOCS/screens/home_today.jpg) | ![Home Screen2](DOCS/screens/home_weekly.jpg) | ![Profile Screen](DOCS/screens/profile.jpg) |
+
 
 ## Features
 
