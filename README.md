@@ -43,24 +43,6 @@ To set up and run HabitFlow locally:
 - **Firebase**: Backend services for user authentication and data storage.
 - **Provider**: State management for efficient handling of app state.
 
-## Contributing
-
-We welcome contributions to improve HabitFlow! To contribute:
-
-1. Fork this repository.
-2. Create a branch for your feature:
-   ```bash
-   git checkout -b feature/YourFeatureName
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add a new feature"
-   ```
-4. Push to your branch:
-   ```bash
-   git push origin feature/YourFeatureName
-   ```
-5. Open a pull request.
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
